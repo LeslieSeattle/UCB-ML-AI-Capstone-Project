@@ -6,7 +6,7 @@ UC Berkeley Professional Certificate in Machine Learning and Artificial Intellig
 
 Module 20: CAPSTONE PROJECT: Initial Report and Exploratory Data Analysis
 
-GitHub.com Repository: https://github.com/LeslieSeattle/UCB-ML-AI-Capstone-Preliminary/tree/main
+GitHub.com Repository: https://github.com/LeslieSeattle/UCB-ML-AI-Capstone-Preliminary
 
 Summary of Capstone Project: 
 
