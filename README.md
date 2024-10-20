@@ -4,7 +4,7 @@ Leslie K. English
 
 UC Berkeley Professional Certificate in Machine Learning and Artificial Intelligence
 
-GitHub.com Repository: https://github.com/LeslieSeattle/UCB-ML-AI-Capstone-Preliminary
+GitHub.com Repository: https://github.com/LeslieSeattle/UCB-ML-AI-Capstone-Project
 
 Summary of Capstone Project: 
 
